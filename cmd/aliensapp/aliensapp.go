@@ -1,3 +1,4 @@
+// package main is an entry point to the Aliens Invasion game
 package main
 
 import (

@@ -1,3 +1,4 @@
+// Package aliensinvasion provides interfaces and logic to interact with the Aliens Invasion game
 package alieninvasion
 
 // AliensManager interface provides a way to manage aliens from outside the packages.
