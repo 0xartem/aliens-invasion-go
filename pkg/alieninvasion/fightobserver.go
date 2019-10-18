@@ -1,5 +1,5 @@
 package alieninvasion
 
 type FightObserver interface {
-	OnAliensFight(fstAl *Alien, secAl *Alien, city *City)
+    OnAliensFight(fstAl *Alien, secAl *Alien, city *City)
 }
