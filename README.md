@@ -38,11 +38,6 @@ Documentation can be found in the [docs](docs/README.md).
 
 `go test ./...`
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-
 ### Authors
 
 * **Artem B.** - [artem](https://github.com/artem-brazhnikov)
