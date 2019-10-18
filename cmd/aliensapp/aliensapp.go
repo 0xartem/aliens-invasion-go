@@ -7,7 +7,7 @@ import (
     "os"
     "strconv"
 
-    "github.com/artem-braznikov/aliens-invasion-go/pkg/alieninvasion"
+    "github.com/artem-brazhnikov/aliens-invasion-go/pkg/alieninvasion"
 )
 
 func check(e error) {
