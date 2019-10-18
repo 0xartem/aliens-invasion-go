@@ -5,7 +5,7 @@
 Project structure:
 
 cmd/aliensapp - app running the aliens invasion simulation  
-pkg/alieninvasion - package that all the aliens invastion logic  
+pkg/alieninvasion - package that contains all the aliens invasion logic  
 tests/data - test data files (consistent/inconsistent)  
 docs/README.md - steps to generate documenation  
 
