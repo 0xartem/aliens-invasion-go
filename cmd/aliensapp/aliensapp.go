@@ -46,7 +46,7 @@ func main() {
     }
     defer file.Close()
 
-    consoleObserver := ConsoleObserver{true}
+    consoleObserver := ConsoleObserver{false}
     mapManager := alieninvasion.NewMapManager()
     aliensManager := alieninvasion.NewAliensManager(mapManager, &consoleObserver)
 
